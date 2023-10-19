@@ -1,0 +1,47 @@
+.img-size {
+    max-width: 430px;
+    max-height: 100%;
+}
+
+
+
+.head-line {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.menus {
+    border-top: 1px solid rgb(235, 235, 235);
+    border-bottom: 4px double black;
+    
+    margin-bottom: 30px;
+}
+
+
+.menus button {
+    background-color: white;
+    border: none;
+    padding: 10px;
+}
+
+
+.col-lg-4 img {
+    max-height: 100%;
+    width: 400px;
+}
+
+.row {
+    border-bottom: 2px solid black;
+}
+
+
+.board-style {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.search-area {
+    padding-top: 50px;
+}
